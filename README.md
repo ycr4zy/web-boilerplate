@@ -13,4 +13,4 @@ Gulp 4 + Webpack + babel + sass + es6
 
 ### Open localhost
 
-- When type `gulp` in console, a page with port 3000 will be created if available, to access the page just walk in the directories, example: `localhost:3000/dist/html/page.html`
+- When type `gulp` in console, a page with port 3000 will be created if available, to access the page just walk in the directories, example: `http://localhost:3000/dist/html/auth.html`
