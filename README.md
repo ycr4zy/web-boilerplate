@@ -3,6 +3,8 @@ Boilerplate with components:
 
 Gulp 4 + Webpack + babel + sass + es6
 
+## This gulps works in node v14+.
+
 ### Local development:
 - Run `npm install`
 - Run `gulp`
