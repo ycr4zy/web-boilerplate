@@ -1,0 +1,44 @@
+@font-face {
+  font-family: "fontUser";
+  src: url("../fonts/icons/user.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="fontUser-"]:before,
+[class*=" fontUser-"]:before,
+[class^="fontUser-"]:after,
+[class*=" fontUser-"]:after {
+  font-family: "fontUser";
+}
+
+.fontUser-001-woman:before { content: "\f100"; }
+.fontUser-002-women:before { content: "\f101"; }
+.fontUser-003-group-5:before { content: "\f102"; }
+.fontUser-004-group-4:before { content: "\f103"; }
+.fontUser-005-user-5:before { content: "\f104"; }
+.fontUser-006-user-4:before { content: "\f105"; }
+.fontUser-007-presentation-1:before { content: "\f106"; }
+.fontUser-008-clipboard:before { content: "\f107"; }
+.fontUser-009-presentation:before { content: "\f108"; }
+.fontUser-010-man-1:before { content: "\f109"; }
+.fontUser-011-man:before { content: "\f10a"; }
+.fontUser-012-group-3:before { content: "\f10b"; }
+.fontUser-013-group-2:before { content: "\f10c"; }
+.fontUser-014-group-1:before { content: "\f10d"; }
+.fontUser-015-man-and-woman:before { content: "\f10e"; }
+.fontUser-016-user-3:before { content: "\f10f"; }
+.fontUser-017-user-2:before { content: "\f110"; }
+.fontUser-018-id-card-1:before { content: "\f111"; }
+.fontUser-019-id-card:before { content: "\f112"; }
+.fontUser-020-head:before { content: "\f113"; }
+.fontUser-021-group:before { content: "\f114"; }
+.fontUser-022-user-1:before { content: "\f115"; }
+.fontUser-023-user:before { content: "\f116"; }
+.fontUser-024-face-scan:before { content: "\f117"; }
+.fontUser-025-chat:before { content: "\f118"; }
+.fontUser-026-promotion:before { content: "\f119"; }
+.fontUser-027-demotion:before { content: "\f11a"; }
+.fontUser-028-businessman:before { content: "\f11b"; }
+.fontUser-029-brainstorm:before { content: "\f11c"; }
+.fontUser-030-goal:before { content: "\f11d"; }

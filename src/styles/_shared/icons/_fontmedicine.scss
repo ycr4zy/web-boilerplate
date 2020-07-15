@@ -1,0 +1,94 @@
+@font-face {
+  font-family: "medicinebody";
+  src: url("../fonts/icons/medicinebody.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="medicinebody-"]:before,
+[class*=" medicinebody-"]:before,
+[class^="medicinebody-"]:after,
+[class*=" medicinebody-"]:after {
+  font-family: "medicinebody";
+}
+
+.medicinebody-anatomic-heart:before { content: "\f100"; }
+.medicinebody-anatomic-spine:before { content: "\f101"; }
+.medicinebody-bacteria-circle:before { content: "\f102"; }
+.medicinebody-biceps:before { content: "\f103"; }
+.medicinebody-big-ear:before { content: "\f104"; }
+.medicinebody-big-eye:before { content: "\f105"; }
+.medicinebody-big-finger:before { content: "\f106"; }
+.medicinebody-big-intestines:before { content: "\f107"; }
+.medicinebody-big-moustache:before { content: "\f108"; }
+.medicinebody-big-nose:before { content: "\f109"; }
+.medicinebody-big-nose-1:before { content: "\f10a"; }
+.medicinebody-big-skull:before { content: "\f10b"; }
+.medicinebody-big-tooth:before { content: "\f10c"; }
+.medicinebody-bone-hand:before { content: "\f10d"; }
+.medicinebody-bones-crossed:before { content: "\f10e"; }
+.medicinebody-brain-cenit-view:before { content: "\f10f"; }
+.medicinebody-brain-on-head:before { content: "\f110"; }
+.medicinebody-child-head:before { content: "\f111"; }
+.medicinebody-classic-moustache:before { content: "\f112"; }
+.medicinebody-conceiving:before { content: "\f113"; }
+.medicinebody-dna-code:before { content: "\f114"; }
+.medicinebody-eye-closed:before { content: "\f115"; }
+.medicinebody-female-reproduction-system:before { content: "\f116"; }
+.medicinebody-femenine-torso:before { content: "\f117"; }
+.medicinebody-full-stomach:before { content: "\f118"; }
+.medicinebody-groin:before { content: "\f119"; }
+.medicinebody-hand-cut:before { content: "\f11a"; }
+.medicinebody-heart-beating:before { content: "\f11b"; }
+.medicinebody-hip-bone:before { content: "\f11c"; }
+.medicinebody-hip-radiography:before { content: "\f11d"; }
+.medicinebody-human-back:before { content: "\f11e"; }
+.medicinebody-human-eyes:before { content: "\f11f"; }
+.medicinebody-human-head:before { content: "\f120"; }
+.medicinebody-human-liver:before { content: "\f121"; }
+.medicinebody-human-neck:before { content: "\f122"; }
+.medicinebody-human-ribs:before { content: "\f123"; }
+.medicinebody-human-sperm:before { content: "\f124"; }
+.medicinebody-kidneys:before { content: "\f125"; }
+.medicinebody-knee-bones:before { content: "\f126"; }
+.medicinebody-knee-bones-1:before { content: "\f127"; }
+.medicinebody-left-foot:before { content: "\f128"; }
+.medicinebody-lips-with-mole:before { content: "\f129"; }
+.medicinebody-lungs-with-bronchi:before { content: "\f12a"; }
+.medicinebody-man-with-beard:before { content: "\f12b"; }
+.medicinebody-masculine-foot:before { content: "\f12c"; }
+.medicinebody-men-back:before { content: "\f12d"; }
+.medicinebody-men-hair:before { content: "\f12e"; }
+.medicinebody-men-legs:before { content: "\f12f"; }
+.medicinebody-men-torso:before { content: "\f130"; }
+.medicinebody-mustache-and-nose:before { content: "\f131"; }
+.medicinebody-nose-and-lips:before { content: "\f132"; }
+.medicinebody-oftalmology:before { content: "\f133"; }
+.medicinebody-one-hair:before { content: "\f134"; }
+.medicinebody-one-kidney:before { content: "\f135"; }
+.medicinebody-open-mouth:before { content: "\f136"; }
+.medicinebody-ophthalmology:before { content: "\f137"; }
+.medicinebody-orthopedic-leg:before { content: "\f138"; }
+.medicinebody-pregnant-woman:before { content: "\f139"; }
+.medicinebody-skin-hair:before { content: "\f13a"; }
+.medicinebody-spinal-bones:before { content: "\f13b"; }
+.medicinebody-stomach:before { content: "\f13c"; }
+.medicinebody-teeth-line:before { content: "\f13d"; }
+.medicinebody-tongue-out:before { content: "\f13e"; }
+.medicinebody-toothache:before { content: "\f13f"; }
+.medicinebody-two-feet:before { content: "\f140"; }
+.medicinebody-two-fingers:before { content: "\f141"; }
+.medicinebody-two-kidneys:before { content: "\f142"; }
+.medicinebody-two-lungs:before { content: "\f143"; }
+.medicinebody-urinary-bladder:before { content: "\f144"; }
+.medicinebody-urinary-system:before { content: "\f145"; }
+.medicinebody-vended-knee:before { content: "\f146"; }
+.medicinebody-walking-tiptoed:before { content: "\f147"; }
+.medicinebody-woman-body:before { content: "\f148"; }
+.medicinebody-woman-breast:before { content: "\f149"; }
+.medicinebody-woman-lips:before { content: "\f14a"; }
+.medicinebody-woman-neck:before { content: "\f14b"; }
+.medicinebody-woman-with-panties:before { content: "\f14c"; }
+.medicinebody-women-buttock:before { content: "\f14d"; }
+.medicinebody-women-foot:before { content: "\f14e"; }
+.medicinebody-x-ray-of-lungs:before { content: "\f14f"; }

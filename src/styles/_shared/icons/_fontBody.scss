@@ -1,0 +1,65 @@
+@font-face {
+  font-family: "Bodyparts";
+  src: url("../fonts/icons/bodyparts.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="bodyparts-"]:before,
+[class*=" bodyparts-"]:before,
+[class^="bodyparts-"]:after,
+[class*=" bodyparts-"]:after {
+  font-family: "Bodyparts";
+}
+
+
+.bodyparts-001-head:before { content: "\f100"; }
+.bodyparts-002-hand:before { content: "\f101"; }
+.bodyparts-003-arm:before { content: "\f102"; }
+.bodyparts-004-foot:before { content: "\f103"; }
+.bodyparts-005-leg:before { content: "\f104"; }
+.bodyparts-006-eye:before { content: "\f105"; }
+.bodyparts-007-nose:before { content: "\f106"; }
+.bodyparts-008-lips:before { content: "\f107"; }
+.bodyparts-009-ear:before { content: "\f108"; }
+.bodyparts-010-skin:before { content: "\f109"; }
+.bodyparts-011-stomach:before { content: "\f10a"; }
+.bodyparts-012-breast:before { content: "\f10b"; }
+.bodyparts-013-tooth:before { content: "\f10c"; }
+.bodyparts-014-heart:before { content: "\f10d"; }
+.bodyparts-015-liver:before { content: "\f10e"; }
+.bodyparts-016-brain:before { content: "\f10f"; }
+.bodyparts-017-spine:before { content: "\f110"; }
+.bodyparts-018-joint:before { content: "\f111"; }
+.bodyparts-019-tongue:before { content: "\f112"; }
+.bodyparts-020-spleen:before { content: "\f113"; }
+.bodyparts-021-lungs:before { content: "\f114"; }
+.bodyparts-022-kidneys:before { content: "\f115"; }
+.bodyparts-023-pancreas:before { content: "\f116"; }
+.bodyparts-024-buttocks:before { content: "\f117"; }
+.bodyparts-025-navel:before { content: "\f118"; }
+.bodyparts-026-back:before { content: "\f119"; }
+.bodyparts-027-rib-cage:before { content: "\f11a"; }
+.bodyparts-028-testicle:before { content: "\f11b"; }
+.bodyparts-029-intestine:before { content: "\f11c"; }
+.bodyparts-030-intestine:before { content: "\f11d"; }
+.bodyparts-031-penis:before { content: "\f11e"; }
+.bodyparts-032-uterus:before { content: "\f11f"; }
+.bodyparts-033-skull:before { content: "\f120"; }
+.bodyparts-034-pelvis:before { content: "\f121"; }
+.bodyparts-035-bladder:before { content: "\f122"; }
+.bodyparts-036-gallbladder:before { content: "\f123"; }
+.bodyparts-037-muscles:before { content: "\f124"; }
+.bodyparts-038-abs:before { content: "\f125"; }
+.bodyparts-039-elbow:before { content: "\f126"; }
+.bodyparts-040-throat:before { content: "\f127"; }
+.bodyparts-041-finger:before { content: "\f128"; }
+.bodyparts-042-neuron:before { content: "\f129"; }
+.bodyparts-043-thyroid:before { content: "\f12a"; }
+.bodyparts-044-blood:before { content: "\f12b"; }
+.bodyparts-045-dna:before { content: "\f12c"; }
+.bodyparts-046-neck:before { content: "\f12d"; }
+.bodyparts-047-knee:before { content: "\f12e"; }
+.bodyparts-048-sperm:before { content: "\f12f"; }
+.bodyparts-049-blood:before { content: "\f130"; }
+.bodyparts-050-fetus:before { content: "\f131"; }

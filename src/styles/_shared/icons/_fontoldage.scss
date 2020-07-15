@@ -1,0 +1,44 @@
+@font-face {
+  font-family: "fontOldAge";
+  src: url("../fonts/icons/fontOldAge.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="fontOldAge-"]:before,
+[class*=" fontOldAge-"]:before,
+[class^="fontOldAge-"]:after,
+[class*=" fontOldAge-"]:after {
+  font-family: "fontOldAge";
+}
+
+.fontOldAge-001-old-man:before { content: "\f100"; }
+.fontOldAge-002-elder:before { content: "\f101"; }
+.fontOldAge-003-old:before { content: "\f102"; }
+.fontOldAge-004-old:before { content: "\f103"; }
+.fontOldAge-005-old:before { content: "\f104"; }
+.fontOldAge-006-old:before { content: "\f105"; }
+.fontOldAge-007-old:before { content: "\f106"; }
+.fontOldAge-008-old:before { content: "\f107"; }
+.fontOldAge-009-old-man:before { content: "\f108"; }
+.fontOldAge-010-man:before { content: "\f109"; }
+.fontOldAge-011-grandfather:before { content: "\f10a"; }
+.fontOldAge-012-couple:before { content: "\f10b"; }
+.fontOldAge-013-old:before { content: "\f10c"; }
+.fontOldAge-014-old:before { content: "\f10d"; }
+.fontOldAge-015-grandmother:before { content: "\f10e"; }
+.fontOldAge-016-old:before { content: "\f10f"; }
+.fontOldAge-017-old:before { content: "\f110"; }
+.fontOldAge-018-grandfather:before { content: "\f111"; }
+.fontOldAge-019-old-man:before { content: "\f112"; }
+.fontOldAge-020-caregiver:before { content: "\f113"; }
+.fontOldAge-021-caregiver:before { content: "\f114"; }
+.fontOldAge-022-caregiver:before { content: "\f115"; }
+.fontOldAge-023-caregiver:before { content: "\f116"; }
+.fontOldAge-024-family:before { content: "\f117"; }
+.fontOldAge-025-old:before { content: "\f118"; }
+.fontOldAge-026-old:before { content: "\f119"; }
+.fontOldAge-027-cementery:before { content: "\f11a"; }
+.fontOldAge-028-grandmother:before { content: "\f11b"; }
+.fontOldAge-029-old:before { content: "\f11c"; }
+.fontOldAge-030-daycare-center:before { content: "\f11d"; }

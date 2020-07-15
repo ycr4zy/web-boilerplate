@@ -1,0 +1,114 @@
+@font-face {
+  font-family: "bodyandfitness";
+  src: url("../fonts/icons/bodyandfitness.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="bodyandfitness-"]:before,
+[class*=" bodyandfitness-"]:before,
+[class^="bodyandfitness-"]:after,
+[class*=" bodyandfitness-"]:after {
+  font-family: "bodyandfitness";
+}
+
+.bodyandfitness-001-whistle:before { content: "\f100"; }
+.bodyandfitness-002-protein:before { content: "\f101"; }
+.bodyandfitness-003-wheel:before { content: "\f102"; }
+.bodyandfitness-004-weight-1:before { content: "\f103"; }
+.bodyandfitness-005-weightlifting-1:before { content: "\f104"; }
+.bodyandfitness-006-weightlifting:before { content: "\f105"; }
+.bodyandfitness-007-gym:before { content: "\f106"; }
+.bodyandfitness-008-mouth:before { content: "\f107"; }
+.bodyandfitness-009-treadmill-1:before { content: "\f108"; }
+.bodyandfitness-010-treadmill:before { content: "\f109"; }
+.bodyandfitness-011-tongue:before { content: "\f10a"; }
+.bodyandfitness-012-toe:before { content: "\f10b"; }
+.bodyandfitness-013-throat:before { content: "\f10c"; }
+.bodyandfitness-014-measuring-tape:before { content: "\f10d"; }
+.bodyandfitness-015-supplement:before { content: "\f10e"; }
+.bodyandfitness-016-stopwatch:before { content: "\f10f"; }
+.bodyandfitness-017-steak:before { content: "\f110"; }
+.bodyandfitness-018-fit:before { content: "\f111"; }
+.bodyandfitness-019-clothes-1:before { content: "\f112"; }
+.bodyandfitness-020-clothes:before { content: "\f113"; }
+.bodyandfitness-021-column:before { content: "\f114"; }
+.bodyandfitness-022-spa:before { content: "\f115"; }
+.bodyandfitness-023-sneaker:before { content: "\f116"; }
+.bodyandfitness-024-smartwatch:before { content: "\f117"; }
+.bodyandfitness-025-skull:before { content: "\f118"; }
+.bodyandfitness-026-abs:before { content: "\f119"; }
+.bodyandfitness-027-shoulder:before { content: "\f11a"; }
+.bodyandfitness-028-body-2:before { content: "\f11b"; }
+.bodyandfitness-029-body-1:before { content: "\f11c"; }
+.bodyandfitness-030-shaker:before { content: "\f11d"; }
+.bodyandfitness-031-scale:before { content: "\f11e"; }
+.bodyandfitness-032-roller:before { content: "\f11f"; }
+.bodyandfitness-033-rings:before { content: "\f120"; }
+.bodyandfitness-034-rib:before { content: "\f121"; }
+.bodyandfitness-035-punching-ball:before { content: "\f122"; }
+.bodyandfitness-036-pregnant:before { content: "\f123"; }
+.bodyandfitness-037-pool:before { content: "\f124"; }
+.bodyandfitness-038-nose-1:before { content: "\f125"; }
+.bodyandfitness-039-nose:before { content: "\f126"; }
+.bodyandfitness-040-no-fast-food:before { content: "\f127"; }
+.bodyandfitness-041-neck:before { content: "\f128"; }
+.bodyandfitness-042-navel:before { content: "\f129"; }
+.bodyandfitness-043-moustache:before { content: "\f12a"; }
+.bodyandfitness-044-muscle:before { content: "\f12b"; }
+.bodyandfitness-045-lose-weight:before { content: "\f12c"; }
+.bodyandfitness-046-lips-1:before { content: "\f12d"; }
+.bodyandfitness-047-lips:before { content: "\f12e"; }
+.bodyandfitness-048-legs:before { content: "\f12f"; }
+.bodyandfitness-049-leg:before { content: "\f130"; }
+.bodyandfitness-050-knee:before { content: "\f131"; }
+.bodyandfitness-051-kettlebell:before { content: "\f132"; }
+.bodyandfitness-052-jump-rope:before { content: "\f133"; }
+.bodyandfitness-053-hip:before { content: "\f134"; }
+.bodyandfitness-054-hand-grip:before { content: "\f135"; }
+.bodyandfitness-055-hair:before { content: "\f136"; }
+.bodyandfitness-056-gym-station-3:before { content: "\f137"; }
+.bodyandfitness-057-gym-station-2:before { content: "\f138"; }
+.bodyandfitness-058-gym-station-1:before { content: "\f139"; }
+.bodyandfitness-059-gym-station:before { content: "\f13a"; }
+.bodyandfitness-060-gym-bag:before { content: "\f13b"; }
+.bodyandfitness-061-gloves:before { content: "\f13c"; }
+.bodyandfitness-062-weight:before { content: "\f13d"; }
+.bodyandfitness-063-stationary-bike:before { content: "\f13e"; }
+.bodyandfitness-064-fist:before { content: "\f13f"; }
+.bodyandfitness-065-finger:before { content: "\f140"; }
+.bodyandfitness-066-body:before { content: "\f141"; }
+.bodyandfitness-067-feet-1:before { content: "\f142"; }
+.bodyandfitness-068-feet:before { content: "\f143"; }
+.bodyandfitness-069-eyebrows:before { content: "\f144"; }
+.bodyandfitness-070-yoga-mat:before { content: "\f145"; }
+.bodyandfitness-071-ball:before { content: "\f146"; }
+.bodyandfitness-072-energy-drink:before { content: "\f147"; }
+.bodyandfitness-073-elliptical:before { content: "\f148"; }
+.bodyandfitness-074-elbow:before { content: "\f149"; }
+.bodyandfitness-075-ear:before { content: "\f14a"; }
+.bodyandfitness-076-dumbbell:before { content: "\f14b"; }
+.bodyandfitness-077-chin:before { content: "\f14c"; }
+.bodyandfitness-078-chest-expander:before { content: "\f14d"; }
+.bodyandfitness-079-water:before { content: "\f14e"; }
+.bodyandfitness-080-calculator:before { content: "\f14f"; }
+.bodyandfitness-081-breast:before { content: "\f150"; }
+.bodyandfitness-082-boxing:before { content: "\f151"; }
+.bodyandfitness-083-butt:before { content: "\f152"; }
+.bodyandfitness-084-bottle-1:before { content: "\f153"; }
+.bodyandfitness-085-bottle:before { content: "\f154"; }
+.bodyandfitness-086-bone:before { content: "\f155"; }
+.bodyandfitness-087-caliper:before { content: "\f156"; }
+.bodyandfitness-088-apple:before { content: "\f157"; }
+.bodyandfitness-089-belly:before { content: "\f158"; }
+.bodyandfitness-090-bar-1:before { content: "\f159"; }
+.bodyandfitness-091-barbell-1:before { content: "\f15a"; }
+.bodyandfitness-092-barbell:before { content: "\f15b"; }
+.bodyandfitness-093-bar:before { content: "\f15c"; }
+.bodyandfitness-094-balance:before { content: "\f15d"; }
+.bodyandfitness-095-backpack:before { content: "\f15e"; }
+.bodyandfitness-096-back:before { content: "\f15f"; }
+.bodyandfitness-097-bones:before { content: "\f160"; }
+.bodyandfitness-098-arm:before { content: "\f161"; }
+.bodyandfitness-099-ankle-1:before { content: "\f162"; }
+.bodyandfitness-100-ankle:before { content: "\f163"; }

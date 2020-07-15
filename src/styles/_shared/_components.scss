@@ -1,0 +1,139 @@
+//fonts
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+@import url('http://db.onlinewebfonts.com/c/83ce47706219620c6c601fa5eb658c2f?family=Nordica');
+@import url('https://fonts.googleapis.com/css?family=Lato|Open+Sans|Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
+
+
+//general
+.mt10 { margin-top: 10px; }
+.mb10 { margin-bottom: 10px; }
+.mt20 { margin-top: 20px; }
+.mb20 { margin-bottom: 20px; }
+.mt30 { margin-top: 30px; }
+.mb30 { margin-bottom: 30px; }
+
+/* ativado no html usando essa função
+  <transition name="fade" v-if="show == 1"> 
+    aqui é todo seu código do html, PPRT ISSO FICOU MT GATO KKK
+  </transition>
+*/
+.fade-enter-active, .fade-leave-active {
+  transition: opacity .5s;
+}
+.fade-enter, .fade-leave-to {
+  opacity: 0;
+}
+
+a,div {
+  animation: fadeInLeft 0.86s; 
+  box-sizing: border-box;
+}
+
+h1,h2,h3,h4,h5,p,span,em,b,a,label {
+  font-family:'Open Sans', sans-serif;
+}
+
+p, span {
+  font-size: 16px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 13px;
+}
+
+
+//buttons
+.btn {
+  padding: 6px 11px;
+  border-radius: 5px;
+  color: white;
+  text-decoration: none;
+  transition: all 300ms ease-out;
+
+  .primary {
+
+  }
+  .secondary {
+
+  }
+
+  &:hover {
+    transition: all 300ms ease-out;
+  }
+}
+
+
+//form elements
+
+.form-group {
+  color: white;
+  margin-bottom: 10px;
+  margin-left: 5px;
+
+  label {
+    display: block;
+    font-size: 12px; 
+    margin-bottom: 5px;
+  }
+  input {
+    border-radius: 8px;
+    border: 0;
+    height: 35px;
+    padding: 5px 10px;
+    background-color: rgba(255,255,255,.25);
+    color: white;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+}
+
+//card
+
+.card {
+  background-color: $darkBgColor;
+  border-radius: 5px;
+  
+  .card-header {
+    padding: 10px;
+    color: white;
+    background-color: #565258;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-style: solid;
+    border-bottom-color: #22d667;
+    display: flex;
+    align-items: center;
+
+    .title {
+      margin: 0;
+      font-size: 14px;
+      flex: 50;
+    }
+
+    .action {
+      font-size: 11px;
+      flex: 50;
+      text-align: right;
+    }
+  }
+
+  .card-body {
+    padding: 10px;
+  }
+
+  .card-action {
+    .btn {
+      width: 100%;
+      border-top-right-radius: 0;
+      border-top-left-radius: 0;
+      display: block;
+      text-align: center;
+      padding: 10px;
+    }
+  }
+
+}
